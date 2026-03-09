@@ -1,0 +1,107 @@
+{
+  "software_engineer": {
+    "logistic_regression": {
+      "accuracy": 0.9583,
+      "precision": 0.9444,
+      "recall": 1.0,
+      "f1": 0.9714
+    },
+    "naive_bayes": {
+      "accuracy": 0.7083,
+      "precision": 1.0,
+      "recall": 0.5882,
+      "f1": 0.7407
+    },
+    "hybrid": {
+      "accuracy": 0.75,
+      "precision": 1.0,
+      "recall": 0.6471,
+      "f1": 0.7857,
+      "alpha": 0.5
+    }
+  },
+  "data_scientist": {
+    "logistic_regression": {
+      "accuracy": 0.9583,
+      "precision": 0.9444,
+      "recall": 1.0,
+      "f1": 0.9714
+    },
+    "naive_bayes": {
+      "accuracy": 0.875,
+      "precision": 1.0,
+      "recall": 0.8235,
+      "f1": 0.9032
+    },
+    "hybrid": {
+      "accuracy": 0.875,
+      "precision": 1.0,
+      "recall": 0.8235,
+      "f1": 0.9032,
+      "alpha": 0.5
+    }
+  },
+  "web_developer": {
+    "logistic_regression": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "naive_bayes": {
+      "accuracy": 0.9583,
+      "precision": 1.0,
+      "recall": 0.9412,
+      "f1": 0.9697
+    },
+    "hybrid": {
+      "accuracy": 0.9583,
+      "precision": 1.0,
+      "recall": 0.9412,
+      "f1": 0.9697,
+      "alpha": 0.5
+    }
+  },
+  "devops_engineer": {
+    "logistic_regression": {
+      "accuracy": 0.9167,
+      "precision": 0.8947,
+      "recall": 1.0,
+      "f1": 0.9444
+    },
+    "naive_bayes": {
+      "accuracy": 0.7083,
+      "precision": 1.0,
+      "recall": 0.5882,
+      "f1": 0.7407
+    },
+    "hybrid": {
+      "accuracy": 0.7083,
+      "precision": 1.0,
+      "recall": 0.5882,
+      "f1": 0.7407,
+      "alpha": 0.5
+    }
+  },
+  "ml_engineer": {
+    "logistic_regression": {
+      "accuracy": 0.875,
+      "precision": 0.85,
+      "recall": 1.0,
+      "f1": 0.9189
+    },
+    "naive_bayes": {
+      "accuracy": 0.875,
+      "precision": 1.0,
+      "recall": 0.8235,
+      "f1": 0.9032
+    },
+    "hybrid": {
+      "accuracy": 0.875,
+      "precision": 1.0,
+      "recall": 0.8235,
+      "f1": 0.9032,
+      "alpha": 0.5
+    }
+  }
+}
